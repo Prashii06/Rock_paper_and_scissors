@@ -31,8 +31,3 @@ elif (users_choice == "rock" and com == "paper"):
     st.markdown("### You lose!")
 elif (users_choice == "paper" and com == "scissor"):
     st.markdown("### You lose!")
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> af4954b3be2bb0cbe2bb18a425276136efe44674
